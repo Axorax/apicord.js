@@ -1,0 +1,26 @@
+{
+  "name": "apicord-oceanic-bot",
+  "version": "1.0.0",
+  "description": "discord bot made using apicord and oceanic",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/apicord.js.git"
+  },
+  "keywords": [
+    "oceanic",
+    "discord",
+    "apicord"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/apicord.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/apicord.js#readme",
+  "dependencies": {
+    "apicord": "^1.0.1",
+    "colorium": "^1.1.0",
+    "oceanic.js": "^1.6.0"
+  }
+}

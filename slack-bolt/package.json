@@ -1,0 +1,27 @@
+{
+  "name": "apicord-slack-bolt-bot",
+  "version": "1.0.0",
+  "description": "slack bot made using apicord and bolt",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/apicord.js.git"
+  },
+  "keywords": [
+    "slack",
+    "bolt",
+    "apicord",
+    "slack-bolt"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/apicord.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/apicord.js#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.13.1",
+    "apicord": "^1.0.1",
+    "colorium": "^1.1.0"
+  }
+}
