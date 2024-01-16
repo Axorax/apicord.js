@@ -1,0 +1,26 @@
+{
+  "name": "apicord-revolt-bot",
+  "version": "1.0.0",
+  "description": "revolt bot using apicord.js",
+  "main": "bot.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axorax/apicord.js.git"
+  },
+  "keywords": [
+    "apicord",
+    "revolt"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axorax/apicord.js/issues"
+  },
+  "homepage": "https://github.com/axorax/apicord.js#readme",
+  "dependencies": {
+    "apicord": "^1.0.1",
+    "colorium": "^1.1.0",
+    "revolt.js": "^7.0.0-beta.4"
+  }
+}
